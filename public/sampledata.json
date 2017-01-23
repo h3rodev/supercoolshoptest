@@ -1,0 +1,95 @@
+[
+  {
+    "title":"Samsung Galaxy J7",
+    "price":134.99,
+    "was-price":220.00,
+    "quantity":9,
+    "description":"The Boost Mobile Samsung Galaxy J7 features: Android 6.0 Marshmallow OS, 5.5 inch HD Super AMOLED Display, 13MP Rear Camera, 5MP Front Facing Camera, 16GB ROM/2GB ROM, 3G/4G LTE (where available), 1.4GHz Octa-Core Processor, 3000 mAH Battery, And Much More! Phone activation with Boost Mobile Required for use. Includes:Galaxy J7 handset, wall charger, USB Cable, headset and services guide. This is the 2015 model.",
+    "excerpt":"",
+    "category":"mobile",
+    "color":"White",
+    "brand":"Samsung",
+    "material":"",
+    "size":"3.1 x 0.3 x 6 inches",
+    "weight":5.9,
+    "item-model":"S3 mini",
+    "sku":"B01ETPUQ6E",
+    "batteries":"1 Lithium ion",
+    "camera":"13 MP Rear Camera and 5 MP Front Facing Camera",
+    "display":"5.5 inch HD Super AMOLED",
+    "os":"Android 6.0 Marshmallow OS",
+    "ram":16,
+    "images":[
+      {
+        "url":"/img/products/samsung-j7-01.jpg"
+      },
+      {
+        "url":"/img/products/samsung-j7-02.jpg"
+      },
+      {
+        "url":"/img/products/samsung-j7-03.jpg"
+      }
+    ]
+  },
+  {
+    "title":"LG Stylo 2",
+    "price":79.99,
+    "was-price":179.99,
+    "quantity":9,
+    "description":"With its sleek design, the LG Stylo 2 reinvents where power and style meet. The LG signature rear keys make it even easier to pull up Capture+. Its 13MP camera with flash and auto focus lets you record life in picture-perfect Full HD (1080p). Then, play it back on the beautiful and durable 5.7-inch HD IPS Display.",
+    "excerpt":"",
+    "category":"mobile",
+    "color":"Black",
+    "brand":"LG",
+    "material":"",
+    "size":"6.1 inches, 0.29 inches, 3.13 inches",
+    "weight":16,
+    "item-model":"LGLS775AVB",
+    "sku":"B01FSVN3W2",
+    "batteries":"Lithium Ion",
+    "camera":"13MP Rear-Facing Camera with 5MP Front-Facing Camera",
+    "display":"5.7' HD IPS Display",
+    "os":"Android 6.0 Marshmallow OS",
+    "ram":16,
+    "images":[
+      {
+        "url":"/img/products/lg-stylo-2-01.jpg"
+      },
+      {
+        "url":"/img/products/lg-stylo-2-02.jpg"
+      },
+      {
+        "url":"/img/products/lg-stylo-2-03.jpg"
+      }
+    ]
+  },
+  {
+    "title":"Apple iPhone 5",
+    "price":134.40,
+    "was-price":179.99,
+    "quantity":9,
+    "description":"A beautiful aluminum body designed and made with an unprecedented level of precision. iPhone 5 measures a mere 7.6 millimeters thin and weighs just 112 grams. That's 18 percent thinner and 20 percent lighter than iPhone 4S. The only way to achieve a design like this is by relentlessly considering (and reconsidering) every single detail - including the details you don't see.",
+    "excerpt":"",
+    "category":"mobile",
+    "color":"White",
+    "brand":"Apple",
+    "material":"Aluminum",
+    "size":"4.5 x 0.4 x 2.3 inches",
+    "weight":2.4,
+    "item-model":"iPhone5",
+    "sku":"B00WZR5ULU",
+    "batteries":"Lithium Ion",
+    "camera":"8 MP",
+    "display":"4 in",
+    "os":"iOS",
+    "ram":16,
+    "images":[
+      {
+        "url":"/img/products/iphone5-16-01.jpg"
+      },
+      {
+        "url":"/img/products/iphone5-16-02.jpg"
+      }
+    ]
+  }
+]
